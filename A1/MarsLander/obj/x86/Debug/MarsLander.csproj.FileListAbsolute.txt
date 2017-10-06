@@ -1,0 +1,5 @@
+C:\Users\May\Desktop\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.csprojResolveAssemblyReference.cache
+C:\Users\May\Desktop\Starter_Project\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\May\Desktop\Starter_Project\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\May\Desktop\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\May\Desktop\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.pdb
