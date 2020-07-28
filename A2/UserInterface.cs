@@ -2,7 +2,6 @@ using System;
 using Helpdesk.Unit_Tests;
 
 /// <summary>
-/// May Azcarraga
 /// BIT 143
 /// A2.0
 /// </summary>
