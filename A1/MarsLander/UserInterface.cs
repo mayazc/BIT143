@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 
 /// <summary>
-/// May Azcarraga
 /// BIT 143
 /// A1.0
 /// </summary>
