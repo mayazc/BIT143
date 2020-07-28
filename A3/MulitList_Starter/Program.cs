@@ -4,7 +4,6 @@ using System.Text;
 
 
 /**
- * May Azcarraga
  * BIT 143, 2016 Fall 
  * A3.0
  */
